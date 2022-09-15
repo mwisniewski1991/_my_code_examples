@@ -3,7 +3,10 @@
 
 
 ## Python
-- Threading,
+#### Advanced
+- Threading - DONE,
+- f-strings - DONE,
+- magic method,
 - Factory Design Pattern,
 - Proxy Design Pattern,
 - Singleton Design Pattern,
