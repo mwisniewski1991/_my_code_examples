@@ -3,10 +3,12 @@ What I learned and what I am going to learn.
 
 
 ## Python
+#### OOP
+- class: DONE
 #### Advanced
-- Threading - DONE,
-- f-strings - DONE,
-- magic method - DONE,
+- Threading: DONE,
+- f-strings: DONE,
+- magic_methods: DONE,
 - Generators,
 - Argument parsing,    
 - Factory Design Pattern,
@@ -17,4 +19,4 @@ What I learned and what I am going to learn.
 ## SQL
 - CTE,
 - Temporary tables,
-- cumulative sum
+- cumulative sum,
