@@ -5,6 +5,8 @@ What I learned and what I am going to learn.
 ## Python
 #### OOP
 - class: DONE
+- @dataclass: DONE
+
 #### Advanced
 - Threading: DONE,
 - f-strings: DONE,
