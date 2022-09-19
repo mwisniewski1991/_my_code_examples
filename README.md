@@ -3,6 +3,9 @@ What I learned and what I am going to learn.
 
 
 ## Python
+
+#### Standard Libraries
+- Datetime: DONE
 #### OOP
 - class: DONE
 - @dataclass: DONE
