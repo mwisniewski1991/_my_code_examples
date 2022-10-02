@@ -6,16 +6,19 @@ What I learned and what I am going to learn.
 
 #### Standard Libraries
 - Datetime: DONE
+
 #### OOP
 - class: DONE
 - @dataclass: DONE
+
+#### Web FrameWork
+- Flask: IN PROGRESS
 
 #### Advanced
 - Threading: DONE,
 - f-strings: DONE,
 - magic_methods: DONE,
 - Generators,
-- Argument parsing,    
 - Factory Design Pattern,
 - Proxy Design Pattern,
 - Singleton Design Pattern,
