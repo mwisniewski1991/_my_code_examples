@@ -4,7 +4,8 @@ What I learned and what I am going to learn.
 ## Python
 
 #### Standard Libraries
-- Datetime: DONE
+- Datetime: DONE,
+- Pathlib
 
 #### OOP
 - class: DONE
@@ -41,4 +42,4 @@ Scraping data from web. Workshop: Informatyk Zakładowy
 - Fit App 
 - FootballDash,
 - Investment Tracker,
-- Public Transpor Ticket,
+- Public Transport Ticket,
