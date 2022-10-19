@@ -6,6 +6,8 @@ What I learned and what I am going to learn.
 #### Standard Libraries
 - Datetime: DONE,
 - Pathlib
+#### Advanced Libraries
+- SQLAlchemy: DONE,
 
 #### OOP
 - class: DONE
