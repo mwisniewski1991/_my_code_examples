@@ -6,8 +6,23 @@ What I learned and what I am going to learn.
 #### Standard Libraries
 - Datetime: DONE,
 - Pathlib
+
 #### Advanced Libraries
 - SQLAlchemy: DONE,
+
+#### Advanced
+- Threading: DONE,
+- f-strings: DONE,
+- magic_methods: DONE,
+- @property: DONE,
+- @decorators: DONE,
+- abstract,
+
+- Generators,
+- Factory Design Pattern,
+- Proxy Design Pattern,
+- Singleton Design Pattern,
+- Composite Design Pattern,
 
 #### OOP
 - class: DONE
@@ -15,16 +30,6 @@ What I learned and what I am going to learn.
 
 #### Web FrameWork
 - Flask: DONE
-
-#### Advanced
-- Threading: DONE,
-- f-strings: DONE,
-- magic_methods: DONE,
-- Generators,
-- Factory Design Pattern,
-- Proxy Design Pattern,
-- Singleton Design Pattern,
-- Composite Design Pattern,
 
 #### ML
 - Tenserflow and computer vision
@@ -37,11 +42,11 @@ What I learned and what I am going to learn.
 ## Cloud
 - AWS vs Azure vs Google Cloud
 
-## Other
+## Workshops
 Scraping data from web. Workshop: Informatyk Zakładowy
 
 ## Projects
 - Fit App 
+- MigawkaProfit
 - FootballDash,
 - Investment Tracker,
-- Public Transport Ticket,
