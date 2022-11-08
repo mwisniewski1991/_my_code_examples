@@ -9,6 +9,7 @@ What I learned and what I am going to learn.
 
 #### Advanced Libraries
 - SQLAlchemy: DONE,
+- Pendulum: DONE,
 
 #### Advanced
 - Threading: DONE,
