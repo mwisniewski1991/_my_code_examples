@@ -30,7 +30,8 @@ What I learned and what I am going to learn.
 - @dataclass: DONE
 
 #### Web FrameWork
-- Flask: DONE
+- Flask: DONE,
+- Dash: DONE,
 
 #### ML
 - Tenserflow and computer vision
@@ -40,11 +41,19 @@ What I learned and what I am going to learn.
 - Temporary tables,
 - cumulative sum,
 
+## Other
+- Docker
+
 ## Cloud
 - AWS vs Azure vs Google Cloud
 
 ## Workshops
-Scraping data from web. Workshop: Informatyk Zakładowy
+- Scraping data from web. (Online workshop: Informatyk Zakładowy)
+- Introduction to Programming and Computer Science. (Video course: FreeCodeCamp)
+- How does the internet work? (Video course: FreeCodeCamp)
+- AWS Lambda. (?)
+- Microservice Architectrue...  (Video course: FreeCodeCamp)
+- Linux course (?)
 
 ## Projects
 - Fit App 
