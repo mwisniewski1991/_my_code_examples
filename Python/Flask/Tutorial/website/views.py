@@ -4,7 +4,7 @@ import json
 from .models import Note
 from . import db
 
-views = Blueprint('views', __name__)
+views = Blueprint('views', __name__)   
 
 @views.route('/', methods=['GET', 'POST'])
 @login_required

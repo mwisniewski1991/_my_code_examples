@@ -3,6 +3,9 @@ What I learned and what I am going to learn.
 
 ## Python
 
+#### Basic
+- Data Types and data structures
+
 #### Standard Libraries
 - Datetime: DONE,
 - Pathlib
@@ -36,6 +39,10 @@ What I learned and what I am going to learn.
 #### ML
 - Tenserflow and computer vision
 
+## Data Visualization
+- D3.js,
+- Plotly,
+
 ## SQL
 - CTE,
 - Temporary tables,
@@ -49,7 +56,6 @@ What I learned and what I am going to learn.
 
 ## Workshops
 - Scraping data from web. (Online workshop: Informatyk Zakładowy)
-- Introduction to Programming and Computer Science. (Video course: FreeCodeCamp)
 - How does the internet work? (Video course: FreeCodeCamp)
 - AWS Lambda. (?)
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
