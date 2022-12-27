@@ -8,11 +8,12 @@ What I learned and what I am going to learn.
 
 #### Standard Libraries
 - Datetime: DONE,
-- Pathlib
+- Pathlib: DONE,
 
 #### Advanced Libraries
 - SQLAlchemy: DONE,
 - Pendulum: DONE,
+- requests: DONE,
 
 #### Advanced
 - Threading: DONE,
@@ -34,7 +35,6 @@ What I learned and what I am going to learn.
 
 #### Web FrameWork
 - Flask: DONE,
-- Dash: DONE,
 
 #### ML
 - Tenserflow and computer vision
@@ -55,8 +55,8 @@ What I learned and what I am going to learn.
 - AWS vs Azure vs Google Cloud
 
 ## Workshops
-- Scraping data from web. (Online workshop: Informatyk Zakładowy)
 - How does the internet work? (Video course: FreeCodeCamp)
+- Scraping data from web. (Online workshop: Informatyk Zakładowy)
 - AWS Lambda. (?)
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
 - Linux course (?)
@@ -64,5 +64,4 @@ What I learned and what I am going to learn.
 ## Projects
 - Fit App 
 - MigawkaProfit
-- FootballDash,
-- Investment Tracker,
+- GUS stats
