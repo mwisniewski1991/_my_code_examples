@@ -1,7 +1,7 @@
 from os import chdir
 from pathlib import Path
 
-def main_basic() -> None:
+def basic() -> None:
     print('-- -- --')
     print(f'Current directory: {Path.cwd()}')
     print(f'Home directory: {Path.home()}')
@@ -16,7 +16,7 @@ def main_basic() -> None:
         print('Read text')
         print(file.read_text())
 
-def main_advanced() -> None:
+def advanced() -> None:
     print('-- -- --')
     with Path("settings.yaml") as path:
         print('File text')
@@ -30,14 +30,14 @@ def main_advanced() -> None:
         print(f'Path name: {full_path.name}')
         print(f'Path name no extension: {full_path.stem}')
 
-def main_advanced_is_sth() -> None:
+def is_sth() -> None:
     print('-- -- --')
     with Path("settings.yaml") as file_path:
         full_path = file_path.resolve()
         print(f'Is folder {full_path.is_dir()}')
         print(f'Is file {full_path.is_file()}')
 
-def main_creating_file() -> None:
+def creating_file() -> None:
     print('-- -- --')
     new_file: Path =  Path.cwd() / "new_file.txt"
     print(f'Path cwd: {new_file}')
@@ -51,7 +51,7 @@ def main_creating_file() -> None:
     print(f'Is exists?: {new_file.exists()}')
 
 
-def main_creating_directory() -> None:
+def creating_directory() -> None:
     print('-- -- --')
     new_dir: Path = Path.cwd() / "new_dir"
 
@@ -65,8 +65,8 @@ def main_creating_directory() -> None:
     
 
 if __name__ == "__main__":
-    main_basic()
-    main_advanced()
-    main_advanced_is_sth()
-    main_creating_file()
-    main_creating_directory()
+    basic()
+    advanced()
+    is_sth()
+    creating_file()
+    creating_directory()
