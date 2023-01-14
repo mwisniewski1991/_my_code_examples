@@ -36,9 +36,6 @@ What I learned and what I am going to learn.
 #### Web FrameWork
 - Flask: DONE,
 
-#### ML
-- Tenserflow and computer vision
-
 ## Data Visualization
 - D3.js,
 - Plotly,
