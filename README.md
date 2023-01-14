@@ -55,7 +55,7 @@ What I learned and what I am going to learn.
 - AWS vs Azure vs Google Cloud
 
 ## Workshops
-- How does the internet work? (Video course: FreeCodeCamp)
+- How does the internet work? (Video course: FreeCodeCamp) - DONE
 - Scraping data from web. (Online workshop: Informatyk Zakładowy)
 - AWS Lambda. (?)
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
@@ -64,4 +64,4 @@ What I learned and what I am going to learn.
 ## Projects
 - Fit App 
 - MigawkaProfit
-- GUS stats
+- Life Events Tracker
