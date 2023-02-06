@@ -22,12 +22,7 @@ What I learned and what I am going to learn.
 - @property: DONE,
 - @decorators: DONE,
 - abstract,
-
 - Generators,
-- Factory Design Pattern,
-- Proxy Design Pattern,
-- Singleton Design Pattern,
-- Composite Design Pattern,
 
 #### OOP
 - class: DONE
@@ -39,6 +34,7 @@ What I learned and what I am going to learn.
 ## Data Visualization
 - D3.js,
 - Plotly,
+- Grafana,
 
 ## SQL
 - CTE,
@@ -57,8 +53,13 @@ What I learned and what I am going to learn.
 - AWS Lambda. (?)
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
 - Linux course (?)
+- Algorithms and Data Sctructures (Video course: FreeCodeCamp),
+- Database Systems (Video course: FreeCodeCamp),
+- Harvard CS50 (Video course: FreeCodeCamp).
 
 ## Projects
-- Fit App 
-- MigawkaProfit
+- Fit App: DONE
+- MigawkaProfit: DONE
 - Life Events Tracker
+- Lunch Analysis
+- IoT
