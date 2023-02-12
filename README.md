@@ -49,13 +49,14 @@ What I learned and what I am going to learn.
 
 ## Workshops
 - How does the internet work? (Video course: FreeCodeCamp) - DONE
-- Scraping data from web. (Online workshop: Informatyk Zakładowy)
-- AWS Lambda. (?)
-- Microservice Architectrue...  (Video course: FreeCodeCamp)
+- Scraping data from web. (Online workshop: Informatyk Zakładowy) - DONE
+- Harvard CS50 (Video course: FreeCodeCamp) - IN PROGRESS
+
 - Linux course (?)
 - Algorithms and Data Sctructures (Video course: FreeCodeCamp),
 - Database Systems (Video course: FreeCodeCamp),
-- Harvard CS50 (Video course: FreeCodeCamp).
+- Microservice Architectrue...  (Video course: FreeCodeCamp)
+- AWS Lambda. (?)
 
 ## Projects
 - Fit App: DONE
