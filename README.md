@@ -50,17 +50,23 @@ What I learned and what I am going to learn.
 ## Workshops
 - How does the internet work? (Video course: FreeCodeCamp) - DONE
 - Scraping data from web. (Online workshop: Informatyk Zakładowy) - DONE
-- Harvard CS50 (Video course: FreeCodeCamp) - IN PROGRESS
+- Harvard CS50 (edX) - IN PROGRESS
 
-- Linux course (?)
-- Algorithms and Data Sctructures (Video course: FreeCodeCamp),
 - Database Systems (Video course: FreeCodeCamp),
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
+- Linux course (?),
+- Algorithms and Data Sctructures (Video course: FreeCodeCamp),
 - AWS Lambda. (?)
 
 ## Projects
 - Fit App: DONE
 - MigawkaProfit: DONE
-- Life Events Tracker
-- Lunch Analysis
+
+- Life Events Tracker: GATHERING DATA
+- Lunch Analysis: GATHERING DATA
+
+- Jupyter Investments Tracker: IN PROGRESS
+
 - IoT
+- Python Package
+- Cloud project
