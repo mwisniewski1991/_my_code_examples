@@ -1,0 +1,9 @@
+ls - list
+cd - change directory
+cp - copy
+
+mkdir - make directory
+rmdir - remove directory
+rm - remove
+
+mv - move >$ mv hello hello.c
