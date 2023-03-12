@@ -1,2 +1,5 @@
 clang population.c -lcs50
 ./a.out
+
+clang population population.c -lcs50 
+./population
