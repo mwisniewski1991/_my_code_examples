@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// bool     1 byte
 // int      4 bytes | %d    for printing   
 // long     8 bytes | %li   for printing 
 // float    4 bytes | %f    for printing
 // double   8 bytes | %lf   for printing    
 // char     1 byte  | %c    for printing  
-// char[]           | %s    for printing
+// char[]   ? bytes | %s    for printing
 
 void numbers(){
     printf("Numbers: \n");
