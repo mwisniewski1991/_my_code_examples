@@ -24,3 +24,5 @@ float average(int array[]){
     }
     return sum / (float) N;
 };
+
+
