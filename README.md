@@ -32,7 +32,6 @@ What I learned and what I am going to learn.
 - Flask: DONE,
 
 ## Data Visualization
-- D3.js,
 - Plotly,
 - Grafana,
 
@@ -50,13 +49,16 @@ What I learned and what I am going to learn.
 ## Workshops
 - How does the internet work? (Video course: FreeCodeCamp) - DONE
 - Scraping data from web. (Online workshop: Informatyk Zakładowy) - DONE
+
 - Harvard CS50 (edX) - IN PROGRESS
+- Docker w godzinę, Docker in an hour ( - wiedza.mrugalski.pl) - IN PROGRESS
+
 
 - Database Systems (Video course: FreeCodeCamp),
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
 - Linux course (?),
 - Algorithms and Data Sctructures (Video course: FreeCodeCamp),
-- AWS Lambda. (?)
+
 
 ## Projects
 - Fit App: DONE
@@ -70,3 +72,14 @@ What I learned and what I am going to learn.
 - IoT
 - Python Package
 - Cloud project
+
+
+Python
+SQL
+Apache Kafka
+Docker
+Cloud
+Grafana / Stremlit
+
+C
+Scala
