@@ -21,8 +21,11 @@ What I learned and what I am going to learn.
 - magic_methods: DONE,
 - @property: DONE,
 - @decorators: DONE,
-- abstract,
+- function guide: DONE,
 - Generators,
+- abstract,
+- functools,
+- protocol
 
 #### OOP
 - class: DONE
