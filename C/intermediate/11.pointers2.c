@@ -6,8 +6,10 @@ int main(void){
 
     // PART 1
     // int x = 4;              // integer named x is set to 4 
+
     // int *address = &x;      // integer pointer named address is set to the address of x 
                                // * asterisk - modify type if is near
+
     // int y = *address;       // integer y is set to the thing pointed to by address       
                                // * asterisk - deep reference, go to address pointed by pointer
     // int *y_address = &y;
@@ -20,35 +22,27 @@ int main(void){
 
 
     // //PART 2
-    int n = 50;
-    int *p = &n;
+    int *Pointer;
+    int value = 5;
 
-    printf("%d\n", n);
-    printf("%p\n", p);
-    printf("%i\n", *p);
-    printf("\n\n");
+    Pointer = &value;
 
+    printf("Address: %p\n\r", Pointer);
+    printf("Value  : %d\n\r", *Pointer);
 
-    // PART 3
-    char *s = "HI!";
-    printf("%p\n", s);
-    printf("%s\n", s);
+    printf("Address: %p\n\r", &value);
+    printf("Value  : %d\n\r", value);
     
 
-    printf("\nCHARS\n");
-    printf("%c\n", s[0]);
-    printf("%c\n", s[1]);
-    printf("%c\n", s[2]);
-    printf("%c\n", s[3]);
-    printf("%c\n", s[4]);
+    value = 7;
 
-    printf("\nADDRESSES\n");
-    printf("%p\n", &s[0]);
-    printf("%p\n", &s[1]);
-    printf("%p\n", &s[2]);
-    printf("%p\n", &s[3]);
-    printf("%p\n", &s[4]);
+    printf("After change Address: %p\n\r", Pointer);
+    printf("After change Value  : %d\n\r", *Pointer);
 
+    *Pointer = 9;
 
+    printf("After change Address: %p\n\r", Pointer);
+    printf("After change Value  : %d\n\r", *Pointer);
 
+    return 0;
 };
