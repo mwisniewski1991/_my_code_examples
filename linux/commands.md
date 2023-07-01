@@ -39,6 +39,11 @@
 - cat   :check file body
     - cat filename.txt
 
+- less  :check file in read mode
+    - less filename.txt
+
+- wc    :word counter  
+
 - shred :change file with ranodm letters and numbers
     - shred filename.txt
 
@@ -56,13 +61,16 @@
     
 - rmdir :remove directory
     - rmdir my_directory
-    - rm -r my_directory    :if dir is not empty 
+    - rm -r my_directory    :if dir is not empty  -r recursice
+    - rm -rf my_directory   :if dir is not empty  -r recursice -f force
 
 - ln    :create link to file
     - ln -s filename.txt linktofile.txt
 
 - clear :clear terminal
     - clear
+
+- cltr + l  ::clear terminal
 
 - whoami    :show user name
     - whoami
@@ -91,6 +99,10 @@
     - man finger
     - man cat
     - man man
+
+- --help    :show shortes manual
+    - finger --help
+    - wc --help
 
 - whatis    :short version of man
     - whatis finger
@@ -154,7 +166,8 @@
 - ip address :ip details
     - ip address
 
-- grep
+- grep  :find sth in files
+    - grep A filename.txt   :find letter 'A' in file,
     - ip address | grep eth0   :show only part of ip address details
     - ip address | grep eth0 | grep net    :show only net part
     - ip address | grep eth0 | grep net | awk '{print $s}'
@@ -229,3 +242,15 @@ DNS server
 - shutdown 
     - sudo shutdown         :shutdown in one minute
     - sudo shutdown -h now  :shutdown right now
+
+
+
+- gzip  :zip files
+    - gzip filename.txt
+
+- gunzip    :unzip files
+    - gunzip filename.txt
+
+
+- ps auxf :check running programs
+    - ps auxf
