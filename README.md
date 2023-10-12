@@ -45,15 +45,16 @@ What I learned and what I am going to learn.
 
 ## Other
 - Docker
+- Nginx
 
-## Cloud
-- AWS vs Azure vs Google Cloud
 
 ## Workshops
 - How does the internet work? (Video course: FreeCodeCamp) - DONE
 - Scraping data from web. (Online workshop: Informatyk Zakładowy) - DONE
-- Docker w godzinę, Docker in an hour ( - wiedza.mrugalski.pl) - DONE
+- Docker w godzinę, Docker in an hour (Online workshop - wiedza.mrugalski.pl) - DONE
+- Nginx w godzinę. Nginx in an hour (Online workshop - wiedza.mrugalski.pl) - DONE
 
+- Routing i firewalle w godzinę. Routing i firewals in an hour (Online workshop - wiedza.mrugalski.pl) - IN PROGRESS
 - Harvard CS50 (edX) - IN PROGRESS
 
 - Microservice Architectrue...  (Video course: FreeCodeCamp)
@@ -65,22 +66,15 @@ What I learned and what I am going to learn.
 ## Projects
 - Fit App: DONE
 - MigawkaProfit: DONE
+- Lunch Analysis: DONE
 
-- Life Events Tracker: GATHERING DATA
-- Lunch Analysis: GATHERING DATA
-
-- Jupyter Investments Tracker: IN PROGRESS
-
-- IoT
-- Python Package
-- Cloud project
-
+- pl_race: IN PROGRESS
+- flowers_sensors: IN PROGRESS
 
 Python
 SQL
 Apache Kafka
 Docker
-Cloud
 Grafana / Stremlit
 
 C
