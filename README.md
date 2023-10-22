@@ -71,11 +71,26 @@ What I learned and what I am going to learn.
 - pl_race: IN PROGRESS
 - flowers_sensors: IN PROGRESS
 
-Python
-SQL
-Apache Kafka
-Docker
-Grafana / Stremlit
+Tools:
+Languages:
+- Python
+- SQL
+- Scala : To Do
 
-C
-Scala
+Databases
+- PostgreSQL
+- MongoBD : To Do
+- InfluxDB
+
+DevOps
+- Proxmox
+- Linux 
+- Docker
+- git
+- Visual Studio Code
+- Vim : To Do
+
+Other
+- Apache Airflow
+- Apache Kafka : To Do
+- Apache Spark : To Do
