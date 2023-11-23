@@ -79,8 +79,8 @@ Languages:
 
 Databases
 - PostgreSQL
-- MongoBD : To Do
 - InfluxDB
+- MongoBD / Cassandra : To Do
 
 DevOps
 - Proxmox
@@ -91,6 +91,6 @@ DevOps
 - Vim : To Do
 
 Other
-- Apache Airflow
-- Apache Kafka : To Do
-- Apache Spark : To Do
+- Airflow
+- Kafka : To Do
+- Spark : To Do
