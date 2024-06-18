@@ -28,6 +28,11 @@ Repo with code examples which I can check when needed.
 - functools,
 - protocol
 
+- utils 
+    - one_liners
+        - ifelse
+        - flatten 
+
 #### OOP
 - class: DONE
 - @dataclass: DONE
