@@ -1,5 +1,5 @@
-# Road Map
-What I learned and what I am going to learn. 
+# My Code Examples
+Repo with code examples which I can check when needed.
 
 ## Python
 
