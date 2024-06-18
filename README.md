@@ -22,6 +22,7 @@ Repo with code examples which I can check when needed.
 - @property: DONE,
 - @decorators: DONE,
 - function guide: DONE,
+- garbage collecto: DONE,
 - Generators,
 - abstract,
 - functools,
