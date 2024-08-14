@@ -1,0 +1,29 @@
+DEBUG: debug message
+DEBUG: debug message
+WARNING: warning message
+ERROR: error message
+CRITICAL: critical message
+[DEBUG|log|L17] 2024-08-14T22:53:15+0200: debug message:
+[WARNING|log|L18] 2024-08-14T22:53:15+0200: warning message:
+[ERROR|log|L19] 2024-08-14T22:53:15+0200: error message:
+[CRITICAL|log|L20] 2024-08-14T22:53:15+0200: critical message:
+[DEBUG|log|L17] 2024-08-14T22:53:59+0200: debug message
+[WARNING|log|L18] 2024-08-14T22:53:59+0200: warning message
+[ERROR|log|L19] 2024-08-14T22:53:59+0200: error message
+[CRITICAL|log|L20] 2024-08-14T22:53:59+0200: critical message
+[DEBUG|log|L17] 2024-08-14T23:02:42+0200: debug message
+[WARNING|log|L18] 2024-08-14T23:02:42+0200: warning message
+[ERROR|log|L19] 2024-08-14T23:02:42+0200: error message
+[CRITICAL|log|L20] 2024-08-14T23:02:42+0200: critical message
+[DEBUG|log|L17] 2024-08-14T23:03:16+0200: debug message
+[WARNING|log|L18] 2024-08-14T23:03:16+0200: warning message
+[ERROR|log|L19] 2024-08-14T23:03:16+0200: error message
+[CRITICAL|log|L20] 2024-08-14T23:03:16+0200: critical message
+[DEBUG|log|L17] 2024-08-14T23:04:16+0200: debug message
+[WARNING|log|L18] 2024-08-14T23:04:16+0200: warning message
+[ERROR|log|L19] 2024-08-14T23:04:16+0200: error message
+[CRITICAL|log|L20] 2024-08-14T23:04:16+0200: critical message
+[DEBUG|log|L17] 2024-08-14T23:05:48+0200: debug message
+[WARNING|log|L18] 2024-08-14T23:05:48+0200: warning message
+[ERROR|log|L19] 2024-08-14T23:05:48+0200: error message
+[CRITICAL|log|L20] 2024-08-14T23:05:48+0200: critical message

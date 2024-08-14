@@ -1,0 +1,8 @@
+{"level": "DEBUG", "message": "debug message", "timestamp": "2024-08-14T21:04:16.524765+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 17, "thread_name": "MainThread"}
+{"level": "WARNING", "message": "warning message", "timestamp": "2024-08-14T21:04:16.526368+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 18, "thread_name": "MainThread"}
+{"level": "ERROR", "message": "error message", "timestamp": "2024-08-14T21:04:16.527655+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 19, "thread_name": "MainThread"}
+{"level": "CRITICAL", "message": "critical message", "timestamp": "2024-08-14T21:04:16.528035+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 20, "thread_name": "MainThread"}
+{"level": "DEBUG", "message": "debug message", "timestamp": "2024-08-14T21:05:48.579256+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 17, "thread_name": "MainThread", "x": "hello"}
+{"level": "WARNING", "message": "warning message", "timestamp": "2024-08-14T21:05:48.579763+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 18, "thread_name": "MainThread"}
+{"level": "ERROR", "message": "error message", "timestamp": "2024-08-14T21:05:48.580078+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 19, "thread_name": "MainThread"}
+{"level": "CRITICAL", "message": "critical message", "timestamp": "2024-08-14T21:05:48.580339+00:00", "logger": "my_app", "moduel": "log", "function": "main", "line": 20, "thread_name": "MainThread"}
